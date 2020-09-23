@@ -1,7 +1,7 @@
 {
   "name": "dont-give-up-messages",
   "version": "1.0.0",
-  "description": "Random Messages",
+  "description": "This is a quick random message program built with JS and npm, to experiment and learn the basic about npm.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
